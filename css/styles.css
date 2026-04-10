@@ -10970,3 +10970,8 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+a:hover {
+    color: #0ea5e9;
+    transition: 0.3s;
+}
